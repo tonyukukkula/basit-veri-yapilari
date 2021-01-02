@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace veri_yapilari_4_Alperen_Kula_171180045
+namespace tonyukukkula
 {
     public partial class Form1 : Form
     {
