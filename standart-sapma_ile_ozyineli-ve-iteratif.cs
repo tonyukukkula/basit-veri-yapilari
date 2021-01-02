@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace veri_yapilari_5_Alperen_Kula_171180045
+namespace tonyukukkula
 {
     class Program
     {
